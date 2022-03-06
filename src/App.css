@@ -1,0 +1,260 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 5vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.App-footer {
+  background-color: #282c34;
+  min-height: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-card2 {
+  background-color: #282c34;
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+.text-bold{
+  font-size:'20rem';
+}
+.App-card {
+  background-color: #282c34;
+  flex: auto;
+  position: relative;
+  margin-right: 19px;
+}
+.App-card1 {
+  background-color: #282c34;
+  flex: auto;
+  position: relative;
+  
+}
+.App-header1 {
+  background-color: #282c34;
+  /* min-height: 20vh; */
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* font-size: calc(10px + 2vmin); */
+  color: white;
+}
+.col {
+  
+  margin-block: 5px;
+  margin-top: 10px;
+}
+
+.col1 {
+  
+  margin-block: 5px;
+  margin-top: 10px;
+}
+.btn {
+  margin-right: 2%;
+  margin-left: 50px;
+}
+.container {
+  margin-block: 50px;
+  max-width: 2045;
+}
+.row {
+  flex:auto;
+  margin-left: auto;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 5vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.App-footer {
+  background-color: #282c34;
+  min-height: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-card2 {
+  background-color: #282c34;
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+.text-bold{
+  font-size:'20rem';
+}
+.App-card {
+  background-color: #282c34;
+  flex: auto;
+  position: relative;
+  margin-right: 19px;
+}
+.App-card1 {
+  background-color: #282c34;
+  flex: auto;
+  position: relative;
+  
+}
+.App-header1 {
+  background-color: #282c34;
+  /* min-height: 20vh; */
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* font-size: calc(10px + 2vmin); */
+  color: white;
+}
+.col {
+  
+  margin-block: 5px;
+  margin-top: 10px;
+}
+
+.col1 {
+  
+  margin-block: 5px;
+  margin-top: 10px;
+}
+.btn {
+  margin-right: 2%;
+}
+.container {
+  margin-block: 50px;
+  max-width: 2045;
+}
+.row {
+  flex:auto;
+  margin-left: auto;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.body {
+  background-color: #282c34;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (min-width: 1280px) {
+  .MuiContainer-maxWidthLg {
+  max-width: 1280px;
+  max-width: 1911px;
+  }
+  }

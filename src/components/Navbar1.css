@@ -1,0 +1,122 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 5vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  .App-footer {
+    background-color: #282c34;
+    min-height: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-card2 {
+    background-color: #282c34;
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+  }
+  .text-bold{
+    font-size:'20rem';
+  }
+  .App-card {
+    background-color: #282c34;
+    flex: auto;
+    position: relative;
+    margin-right: 19px;
+  }
+  .App-card1 {
+    background-color: #282c34;
+    flex: auto;
+    position: relative;
+    
+  }
+  .App-header1 {
+    background-color: #282c34;
+    /* min-height: 20vh; */
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* font-size: calc(10px + 2vmin); */
+    color: white;
+  }
+  .col {
+    
+    margin-block: 5px;
+    margin-top: 10px;
+  }
+  
+  .col1 {
+    
+    margin-block: 5px;
+    margin-top: 10px;
+  }
+  .btn {
+    margin-right: 2%;
+    margin-left: 1732px;
+  }
+  .btn9 {
+      margin-left: 785px;
+    margin-right: 100px;
+    width: 318px;
+    height: 60px;
+    margin-top: 1px;
+    margin-bottom: 50px;
+    background: linear-gradient(180deg, #39bb5983 0%, #75a7a418 100%);
+    color: rgb(255, 255, 1);
+    font-size: 30px;
+    font-weight: bolder;
+  }
+  .container {
+    margin-block: 50px;
+    max-width: 2045;
+  }
+  .row {
+    flex:auto;
+    margin-left: auto;
+  }
+  .app1{
+      background-color: #282c34;
+  }
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  
