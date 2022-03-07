@@ -333,10 +333,10 @@ const Navbar1 = () => {
   
   <Card.Body>
     {/* <Card.Title style={{textDecorationColor:'re#234'}}> minting</Card.Title> */}
-   
+    {/* <Button  className='btn9 btn-success'>mint</Button> */}
     {/* <Button variant="primary">Go somewhere</Button> */}
   </Card.Body>
-  
+  <Button  className='btn9 btn-success'>mint</Button>
    </Card>
    
   </div>
@@ -345,7 +345,7 @@ const Navbar1 = () => {
     <div className='app1'>
    
  
-    <Button  className='btn9 btn-success'>mint</Button>
+    {/* <Button  className='btn9 btn-success'>mint</Button> */}
   
    
   </div>
