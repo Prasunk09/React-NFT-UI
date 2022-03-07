@@ -138,7 +138,7 @@ const Navbar1 = () => {
   <Card style={{ width: '100%',textAlign: 'center', backgroundColor: ' #282c34',paddingLeft: '1%',paddingRight:'1%'}}> 
     <Card.Img variant="top" src={img4} />
     <Card.Body style={{backgroundColor:' #234'}}>
-      <Card.Title>Card title</Card.Title>
+      <Card.Title>Angry Potato</Card.Title>
       <Card.Text>
       
       </Card.Text>
@@ -148,7 +148,7 @@ const Navbar1 = () => {
   <Card  style={{ width: '100%',textAlign: 'center', backgroundColor: ' #282c34',paddingLeft: '1%',paddingRight:'1%'}}>
     <Card.Img variant="top" src={img1} />
     <Card.Body style={{backgroundColor:' #234'}}>
-      <Card.Title>Card title</Card.Title>
+      <Card.Title>Smirk Potato</Card.Title>
       <Card.Text>
        
       </Card.Text>
@@ -158,7 +158,7 @@ const Navbar1 = () => {
   <Card  style={{ width: '100%',textAlign: 'center', backgroundColor: ' #282c34',paddingLeft: '1%',paddingRight:'1%'}}>
     <Card.Img variant="top" src={img2} />
     <Card.Body style={{backgroundColor:' #234'}}>
-      <Card.Title style={{backgroundColor:' #234'}}>Card title</Card.Title>
+      <Card.Title style={{backgroundColor:' #234'}}>Semi Zipper</Card.Title>
       <Card.Text>
         
       </Card.Text>
@@ -168,7 +168,7 @@ const Navbar1 = () => {
   <Card  style={{ width: '100%',textAlign: 'center', backgroundColor: ' #282c34',paddingLeft: '1%',paddingRight:'1%'}}>
     <Card.Img variant="top" src={img3} />
     <Card.Body style={{backgroundColor:' #234'}}>
-      <Card.Title>Card title</Card.Title>
+      <Card.Title>Rage Potato</Card.Title>
       <Card.Text>
        
       </Card.Text>
@@ -345,7 +345,7 @@ const Navbar1 = () => {
     <div className='app1'>
    
  
-    <Button  className='btn9 btn-success'>minting</Button>
+    <Button  className='btn9 btn-success'>mint</Button>
   
    
   </div>
